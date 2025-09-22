@@ -43,3 +43,5 @@ To provide a clear overview of app distribution, user engagement through reviews
 - Supports data-driven strategies for app development and marketing.
 
 ** Screenshot of the Dashboard**
+
+https://github.com/jayantibanik/Google_PlayStore_App_Analysis/blob/main/Snapshot_of_GooglePlaystoreReview_Dashboard.png
