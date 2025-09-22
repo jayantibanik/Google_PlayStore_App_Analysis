@@ -39,9 +39,7 @@ To provide a clear overview of app distribution, user engagement through reviews
 
 - Identifies which app categories and genres gain the highest user attention.
 - Provides insights into user preference for free vs paid apps.
+- Helps in predicting potential app success based on installs and reviews.
+- Supports data-driven strategies for app development and marketing.
 
 ** Screenshot of the Dashboard**
-
-Helps in predicting potential app success based on installs and reviews.
-
-Supports data-driven strategies for app development and marketing.
